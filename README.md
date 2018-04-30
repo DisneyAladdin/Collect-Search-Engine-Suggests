@@ -15,5 +15,6 @@ OUT
 ```
 suggest_list.txt
 ```
+https://github.com/shutokawabata0723/collect_suggests/blob/master/suggest.txt
 
 # 
